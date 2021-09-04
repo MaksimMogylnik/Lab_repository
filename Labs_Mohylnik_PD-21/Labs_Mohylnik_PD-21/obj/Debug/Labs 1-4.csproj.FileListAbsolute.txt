@@ -1,0 +1,7 @@
+D:\Lab_repository\Labs_Mohylnik_PD-21\Labs_Mohylnik_PD-21\bin\Debug\Labs_Mohylnik_PD-21.exe.config
+D:\Lab_repository\Labs_Mohylnik_PD-21\Labs_Mohylnik_PD-21\bin\Debug\Labs_Mohylnik_PD-21.exe
+D:\Lab_repository\Labs_Mohylnik_PD-21\Labs_Mohylnik_PD-21\bin\Debug\Labs_Mohylnik_PD-21.pdb
+D:\Lab_repository\Labs_Mohylnik_PD-21\Labs_Mohylnik_PD-21\obj\Debug\Labs 1-4.csproj.CoreCompileInputs.cache
+D:\Lab_repository\Labs_Mohylnik_PD-21\Labs_Mohylnik_PD-21\obj\Debug\Labs_Mohylnik_PD-21.exe
+D:\Lab_repository\Labs_Mohylnik_PD-21\Labs_Mohylnik_PD-21\obj\Debug\Labs_Mohylnik_PD-21.pdb
+D:\Lab_repository\Labs_Mohylnik_PD-21\Labs_Mohylnik_PD-21\obj\Debug\Labs 1-4.csproj.AssemblyReference.cache
